@@ -32,15 +32,15 @@ I'm currently working towards becoming a **System Administrator → Junior Penet
 tryhackme/
 │
 ├── notes/
-│   ├── room-name.md
+│   ├── room number-roomname-notes.md
 │   └── ...
 │
 ├── walkthroughs/
-│   ├── room-name-writeup.md
+│   ├── room number-roomname-walthough.md
 │   └── ...
 │
-├── scripts/
-│   ├── custom-tool.py
+├── images/
+│   ├── room number-.version-roomname-images.jfif
 │   └── ...
 │
 └── README.md
